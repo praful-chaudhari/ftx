@@ -44,7 +44,7 @@ html{
 
 .nav-list li a:hover{
     text-decoration: none;
-    color: grey;
+    color: rgb(224, 186, 186);
 }
 
 .rightNav {
@@ -196,16 +196,16 @@ html{
 
 .line{
     width: 33px;
-    background-color: white;
+    background-color: #FFFFFF;
     height: 4px;
     margin: 5px 3px;
 }
 
 .featured-rule {
     margin: auto;
-    background-color: white;
+    background-color: #FFFFFF;
     border-style: dotted none none;
-    border-color: lightpink;
+    border-color: rgb(224, 186, 186);
     border-width: 5px;
     width: 75%;
 }
