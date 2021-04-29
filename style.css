@@ -104,14 +104,18 @@ html{
 }
 
 .chevron {
-    height: 7px;
-    color: white;
+    height: 8px;
+    color: rgb(224, 186, 186);
+}
+
+.featured-img {
+    padding-top: 40px;
 }
 
 .img-1 {
     height: 200px;
     width: 150px;
-    padding: 0 20px;
+    padding:0 20px;
 }
 
 .btn {
@@ -194,4 +198,13 @@ html{
     background-color: white;
     height: 4px;
     margin: 5px 3px;
+}
+
+.featured-rule {
+    margin: auto;
+    background-color: white;
+    border-style: dotted none none;
+    border-color: lightpink;
+    border-width: 5px;
+    width: 75%;
 }

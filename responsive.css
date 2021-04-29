@@ -44,6 +44,11 @@
 
     .text-big{
         text-align: center;
+        padding-top: 50px;
+    }
+
+    .featured-img {
+        padding-top: 40px;
     }
 
     .buttons{
